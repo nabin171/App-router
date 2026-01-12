@@ -1,0 +1,1 @@
+this repo is used for practising the nextjs.
